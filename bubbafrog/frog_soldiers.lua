@@ -1,6 +1,3 @@
--- SOUNDS LINK :
--- Shot: https://freesound.org/people/CJDeets/sounds/476740/
--- Impact : https://freesound.org/people/Twisted_Euphoria/sounds/205938/
 
 
 local frog_soldiernods = {

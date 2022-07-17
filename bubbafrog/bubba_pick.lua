@@ -1,4 +1,4 @@
---Godly Pickaxe infos
+
 minetest.register_tool("bubbafrog:bubba_pick", {
 	description = "BubbaFrog Pickaxe",
 	inventory_image = "bubba_pick.png",
